@@ -33,10 +33,17 @@
 
 <div align="left">
   <ul>
-    <li>🔭 <strong>Currently working on:</strong> Bridging .NET Core logic with Three.js 3D web experiences.</li>
-    <li>🌱 <strong>Currently learning:</strong> Advanced Software Architectures & Design Patterns.</li>
-    <li>🎯 <strong>Goal:</strong> Seeking an internship opportunity to contribute my full-stack skills.</li>
-    <li>💡 <strong>Motto:</strong> Driven by curiosity and the desire to build useful software.</li>
+    Hello, I'm Batuhan Keser I am currently a 3rd-year Computer Engineering student at Selçuk University Unlike a typical student, I don't
+
+just stick to the curriculum; I actively seek opportunities to improve myself by
+
+participating in hackathons, sprints, and real-world projects. My journey involves bridging the gap between Backend logic (ASP.NET Core) and Frontend
+
+creativity (JavaScript, Three.js). Whether it's developing a housing lottery algorithm or collaborating with a team to build 3D web experiences, I am always driven by
+
+curiosity and the desire to build useful software. I am currently looking for an internship opportunity where I can contribute my
+
+full-stack skills and learn from experienced mentors.
   </ul>
 </div>
 
@@ -77,17 +84,7 @@
 
   <h3>📊 GitHub Analytics</h3>
 
-  <table>
-    <tr>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=batuksr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-      </td>
-      <td align="center" width="50%" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuksr&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" />
-      </td>
-    </tr>
-  </table>
-
+  
   <br>
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=batuksr&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak" />
