@@ -32,17 +32,8 @@
 
 <div align="left">
   <ul>
-    Hello, I'm Batuhan Keser I am currently a 3rd-year Computer Engineering student at Selçuk University Unlike a typical student, I don't
-
-just stick to the curriculum; I actively seek opportunities to improve myself by
-
-participating in hackathons, sprints, and real-world projects. My journey involves bridging the gap between Backend logic (ASP.NET Core) and Frontend
-
-creativity (JavaScript, Three.js). Whether it's developing a housing lottery algorithm or collaborating with a team to build 3D web experiences, I am always driven by
-
-curiosity and the desire to build useful software. I am currently looking for an internship opportunity where I can contribute my
-
-full-stack skills and learn from experienced mentors.
+ I am currently a 3rd-year Computer Engineering student at Selçuk University Unlike a typical student, I don'tjust stick to the curriculum; I actively seek opportunities to improve myself by
+participating in hackathons, sprints, and real-world projects. My journey involves bridging the gap between Backend logic (ASP.NET Core) and Frontend creativity (JavaScript, Three.js). Whether it's developing a housing lottery algorithm or collaborating with a team to build 3D web experiences, I am always driven by curiosity and the desire to build useful software. I am currently looking for an internship opportunity where I can contribute my full-stack skills and learn from experienced mentors.
   </ul>
 </div>
 
