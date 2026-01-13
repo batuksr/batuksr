@@ -23,11 +23,10 @@
 
 <div align="center">
   <p width="600px">
-    Hello! I'm <strong>Batuhan Keser</strong>, a 3rd-year <strong>Computer Engineering</strong> student at Selçuk University. 🚀
+    Hello! I'm <strong>Batuhan Keser</strong>
   </p>
 </div>
 
-> I don't just stick to the curriculum; I actively seek opportunities to improve myself by participating in hackathons, sprints, and real-world projects. My journey involves bridging the gap between **Backend logic** and **Frontend creativity**.
 
 <br/>
 
